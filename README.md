@@ -1,3 +1,10 @@
-# 2026-1-Deep-Learning-Term-Project
+# Assets
 
-### 파일 내부에 있는 README 파일을 꼭 읽어보세요!
+Put the main README cover image here.
+
+Recommended file name:
+
+```text
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/684c6fa3-f6c3-4e98-92c3-c202acb354f5" />
+```
+
